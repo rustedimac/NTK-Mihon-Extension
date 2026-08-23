@@ -18,4 +18,6 @@ nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 NTK$eu.kanade.tachiyomi.extension.ko.ntkæ
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apkthttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"1.4(21.4.3:4ÄÍÛĞíşY	NTK Mangako"https://sbxh4.com/manhwa0:4³ş‡Ø§¢€vNTK Webtoonko"https://sbxh4.com/ing0*
 NTK$eu.kanade.tachiyomi.extension.ko.ntkæ
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apkthttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"1.4(21.4.3:4ÄÍÛĞíşY	NTK Mangako"https://sbxh4.com/manhwa0:4³ş‡Ø§¢€vNTK Webtoonko"https://sbxh4.com/ing0*
+NTK$eu.kanade.tachiyomi.extension.ko.ntkæ
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apkthttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"1.4(21.4.3:4ÄÍÛĞíşY	NTK Mangako"https://sbxh4.com/manhwa0:4³ş‡Ø§¢€vNTK Webtoonko"https://sbxh4.com/ing0

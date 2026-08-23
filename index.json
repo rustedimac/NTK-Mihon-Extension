@@ -249,6 +249,33 @@
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
+    },
+    {
+      "name": "NTK",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "50660466465629892",
+          "name": "NTK Manga",
+          "language": "ko",
+          "homeUrl": "https://sbxh4.com/manhwa",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8502946974566317875",
+          "name": "NTK Webtoon",
+          "language": "ko",
+          "homeUrl": "https://sbxh4.com/ing",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
     }
   ]
 }
