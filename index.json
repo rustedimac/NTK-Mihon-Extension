@@ -6,276 +6,288 @@
     "website": "https://keiyoushi.github.io",
     "discord": "https://discord.gg/3FbCpdKbdY"
   },
-  "extensions": [
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.2-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 2,
-      "versionName": "1.4.2",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh3.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.2-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh3.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.2-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh3.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh3.com/ing"
+          }
+        ]
       },
-      "extensionLib": "1.4",
-      "versionCode": 2,
-      "versionName": "1.4.2",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh3.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.2-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh3.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh3.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh3.com/ing"
+          }
+        ]
       },
-      "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh3.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh3.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh3.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh3.com/ing"
+          }
+        ]
       },
-      "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh3.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh3.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh3.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh3.com/ing"
+          }
+        ]
       },
-      "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/ing"
+          }
+        ]
       },
-      "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/ing"
+          }
+        ]
       },
-      "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/ing"
+          }
+        ]
       },
-      "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/ing"
+          }
+        ]
       },
-      "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "NTK",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/ing"
+          }
+        ]
       },
-      "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
-      "sources": [
-        {
-          "id": "50660466465629892",
-          "name": "NTK Manga",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/manhwa",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+      {
+        "name": "NTK",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
         },
-        {
-          "id": "8502946974566317875",
-          "name": "NTK Webtoon",
-          "language": "ko",
-          "homeUrl": "https://sbxh4.com/ing",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    }
-  ]
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "50660466465629892",
+            "name": "NTK Manga",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/manhwa"
+          },
+          {
+            "id": "8502946974566317875",
+            "name": "NTK Webtoon",
+            "language": "ko",
+            "homeUrl": "https://sbxh4.com/ing"
+          }
+        ]
+      },
+      {
+        "name": "11toon",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.toon11",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.toon11-v1.4.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.toon11.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8796296375202334266",
+            "name": "11toon",
+            "language": "ko",
+            "homeUrl": "https://www.11toon.com"
+          }
+        ]
+      }
+    ]
+  }
 }
