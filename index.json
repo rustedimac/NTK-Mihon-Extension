@@ -287,6 +287,26 @@
             "homeUrl": "https://www.11toon.com"
           }
         ]
+      },
+      {
+        "name": "11toon",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.toon11",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/apk/tachiyomi-ko.toon11-v1.4.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/rustedimac/NTK-Mihon-Extension/refs/heads/main/icon/eu.kanade.tachiyomi.extension.ko.toon11.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8796296375202334266",
+            "name": "11toon",
+            "language": "ko",
+            "homeUrl": "https://www.11toon.com"
+          }
+        ]
       }
     ]
   }
